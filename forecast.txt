@@ -1,1 +1,0 @@
-City: Moscow | Country: RU | Weather Description: broken clouds | Temperature: -1.39 Degrees Celsius | Humidity: 76% | Wind Speed: 3.57m/s
