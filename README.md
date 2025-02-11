@@ -14,13 +14,9 @@ I installed Apache Maven and used it to adjust my environment variables.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [YouTube](https://www.youtube.com/watch?v=Co5DMRh9RjE)
 - [YouTube](https://www.youtube.com/watch?v=YTvlb6eny_0)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - The ability for the user to select the information they want to see and filter the forecast accordingly.
