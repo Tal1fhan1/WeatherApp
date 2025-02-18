@@ -1,22 +1,23 @@
 # Overview
 
-I wanted to tackle this programming language because I have heard a lot about how common and versatile it is in the programming space. I am specifically interesting in learning it for the use of creating mobile applications. I have also seen in many job opening descriptions that they, more often than not, require who is experienced with using Java. I think this module acts as the first stepping stone towards me being able to meet those requirements one day.
+The vast majority of companies that are in operation nowadays have their own mobile apps.
+As such, programmers who are able to create mobile apps are in high demand. 
+This is why I chose to create a mobile app for this module. It will me gain a skill
+that will make me more favorable in the eyes of companies that I want to work for.
 
-The purpose of this software program is to provide users a way for them to see the most relevent weather information about any place simply by searching the name of the city. It is meant to be very straight forward and easy to use. It makes use of API calls and custom built classes to get the information from openweatherapp.org, display it to the user based on what they search and write that info down in another file for future reference.
-
-[Software Demo Video](https://youtu.be/Pp-vDNvwjuE)
+[Software Demo Video](https://youtu.be/XHi_SEk06Tk)
 
 # Development Environment
 
-I downloaded the latest version of the Java Development Kit.
-I downloaded and used the IntelliJ IDE for the first time.
-I installed Apache Maven and used it to adjust my environment variables.
+I downloaded the latest version of the Android Studio.
+I downloaded the Azure extension for IntelliJ 
+I used the IntelliJ IDE to deploy my web app onto Azure.
 
 # Useful Websites
 
-- [YouTube](https://www.youtube.com/watch?v=Co5DMRh9RjE)
-- [YouTube](https://www.youtube.com/watch?v=YTvlb6eny_0)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-create-start-a-new-project-in-android-studio/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/splash-screen-in-android/)
 
 # Future Work
 
-- The ability for the user to select the information they want to see and filter the forecast accordingly.
+- I want to find a way to make the weather app start faster. At the moment it takes an extra two seconds to start up, so shaving that time down would make it feel quicker.
